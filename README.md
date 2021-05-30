@@ -1,4 +1,3 @@
-```python
 One. Overall description 
 
 This is a 2-player game. 
@@ -99,5 +98,3 @@ Set the Window size
 Loading the widget_box that contains all of the widgets
 Run ‘update’ function in the widget_box every 1/120 s to give a 120Hz refresh rate of animation.
 
-
-```
