@@ -1,6 +1,6 @@
 One. Overall description 
 
-DEMO:(Youtube: https://youtu.be/a9598FzhCR4)
+DEMO:(Youtube: https://youtu.be/5sSPlmlq4K8)
 
 This is a 2-player game. 
 2 players can use keyboard to control 2 cute creepers. They can control creepers to jump, shoot to other player and plant bomb. They are all on floating boards that keeps moving, in a time period all the boards will move to one direction and the direction will change in next period.  there is no friction between players and board so one will fall and die if it slides out from the board. Being shot by opponent will also cause death. Once one player died, the game will end and announce the winner. There will be no winner if 2 players died at exactly the same time.
